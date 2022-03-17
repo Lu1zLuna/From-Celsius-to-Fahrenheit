@@ -1,5 +1,5 @@
-# Conversor de escala ºC para F
+# A converter from C° scale to F scale.
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mrl1ghtz/pen/PoWooPX](https://codepen.io/mrl1ghtz/pen/PoWooPX).
+You can check the website by clicking on this link: https://thel1ght.github.io/From-Celsius-to-Fahrenheit/
 
 
